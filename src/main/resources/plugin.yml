@@ -1,0 +1,4 @@
+name: THoLCore
+version: '${project.version}'
+main: com.melodicalbuild.tholcore.THoLCore
+api-version: '1.20'
