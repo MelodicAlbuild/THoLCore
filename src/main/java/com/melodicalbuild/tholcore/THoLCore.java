@@ -22,7 +22,7 @@ public final class THoLCore extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        pluginManager.EnablePlugin(new CorePlugin("1.0-Pre1", true));
+        pluginManager.EnablePlugin(new CorePlugin("1.0-Pre3", true));
         getServer().getPluginManager().registerEvents(new Join(this), this);
         getServer().getMessenger().registerOutgoingPluginChannel(this, "melodicalbuild:send");
 
