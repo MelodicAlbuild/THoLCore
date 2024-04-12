@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.melodicalbuild</groupId>
-  <artifactId>THoLCore</artifactId>
+  <artifactId>tholcore</artifactId>
   <version>1.0-Pre3</version>
   <packaging>jar</packaging>
 
@@ -82,7 +82,7 @@
         <repository>
             <id>github</id>
             <name>GitHub MelodicAlbuild Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/MelodicAlbuild/THoLCore</url>
+            <url>https://maven.pkg.github.com/melodicalbuild/tholcore</url>
         </repository>
     </distributionManagement>
 
