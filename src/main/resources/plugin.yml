@@ -2,3 +2,11 @@ name: THoLCore
 version: '${project.version}'
 main: com.melodicalbuild.tholcore.THoLCore
 api-version: '1.20'
+
+commands:
+  executebungee:
+    description: Sends a Command to the Bungee Overhead
+    usage: /executebungee <command>
+    aliases:
+      - ebc
+      - ebg
